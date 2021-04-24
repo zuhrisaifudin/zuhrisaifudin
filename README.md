@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Gazwah Enterprise](https://www.gazwah.com) as a Senior Software Engineer
+- 🔭 I’m currently working on [Gazwah Enterprise](https://www.gazwah.com) as a Software Engineer
 - 🌱 I’m currently learning now [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) in [CodeAcademy](https://www.codecademy.com/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

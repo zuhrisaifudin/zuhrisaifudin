@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhrisaifudin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/zuhrisaifudin/zuhrisaifudin.github.io)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![Visits Badge](https://badges.pufler.dev/visits/zuhrisaifudin/zuhrisaifudin.github.io)](https://zuhrisaifudin.hashnode.dev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/zuhrisaifudin45)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saifudinzuhri/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
